@@ -1,10 +1,9 @@
-[README (2).md](https://github.com/user-attachments/files/29411821/README.2.md)
-
-<h1 align="center">Hey, I'm Varish 👋</h1>
-<h3 align="center">AI/ML Engineer in the making | Final-Year B.Tech (AI & ML) Student</h3>
+[README (3).md](https://github.com/user-attachments/files/29412077/README.3.md)
+<h1 align="center">Hi, I'm Varish 👋</h1>
+<h3 align="center">AI/ML Engineer-in-progress | I turn ML papers into deployed products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+AI+products;NLP+%2B+Forecasting+%2B+Computer+Vision;FinSense+AI+%7C+LeafScan+%7C+CodeVault;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-Year+AI+%26+ML+Student+%40+Jain+University;Building+full-stack+AI+products%2C+not+just+notebooks;FinSense+AI+%7C+LeafScan+%7C+CodeVault+%7C+RetailAnalyticsDB;Currently+hunting+for+AI%2FML+internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,16 +13,35 @@
   <a href="mailto:varishgada050304@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varish-05&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
+</p>
+
+---
+
+### 🧬 Quick Facts
+
+```yaml
+name: Varish Gada
+role: Final-Year B.Tech Student — AI & Machine Learning
+university: Jain University, Bangalore (Kanakapura Campus)
+graduating: April 2027
+focus: NLP · Forecasting · Computer Vision · Full-Stack AI Systems
+status: 🟢 Open to AI/ML Internship opportunities
+philosophy: "Ship the working product, not just the notebook."
+```
+
 ---
 
 ### 🚀 About Me
 
 - 🎓 Final-year **B.Tech in Computer Science (AI & Machine Learning)** @ Jain University, Bangalore — graduating **April 2027**
-- 🧠 I build **full-stack AI products** end-to-end: data → model → API → deployed UI, not just notebooks
-- 🔍 Currently deep in **NLP, forecasting, and applied deep learning**
-- 💼 Completed job simulations/internships with **Goldman Sachs (Forage)** and **Prodigy InfoTech**
-- 🌱 Actively looking for **AI/ML Engineering internships** — let's build something
-- ⚡ Fun fact: I'd rather ship a working product than perfect a slide deck about one
+- 🧠 I don't stop at training a model — I wrap it in an API, build the UI, containerize it, and deploy it
+- 🔍 Currently deep in **NLP pipelines, time-series forecasting, and applied deep learning**
+- 💼 Completed a **Goldman Sachs (Forage) Software/Data Engineering Job Simulation** and an internship at **Prodigy InfoTech**
+- 🗄️ Comfortable going from `CREATE TABLE` to `git push` to a live Vercel/Hugging Face deployment, solo
+- 🌱 Actively looking for **AI/ML Engineering internships** — reach out if you're hiring or just want to talk shop
+- ⚡ Fun fact: I'd rather debug a join fan-out bug at 1am than leave a number in a dashboard I don't trust
 
 ---
 
@@ -33,55 +51,106 @@
   <img src="https://skillicons.dev/icons?i=python,java,postgres,fastapi,react,flask,pytorch,tensorflow,git,github,docker,vercel" />
 </p>
 
-**Languages:** Python · Java · SQL
-**ML/AI:** PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · NLP (TF-IDF) · Facebook Prophet
-**Backend/Frontend:** FastAPI · Flask · React
-**Tools/Cloud:** Git · GitHub · Docker · Vercel · Hugging Face Spaces
-
----
-
-### 🔥 Projects I'm Proud Of
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-**💰 [FinSense AI](https://github.com/Varish-05)**
-AI-powered personal finance advisor. Auto-categorizes expenses with a TF-IDF + Logistic Regression NLP pipeline (~93% accuracy) and forecasts category-wise spend with Facebook Prophet. JWT-secured FastAPI backend + real-time React dashboard, Dockerized for one-command deploy.
-
-`FastAPI` `React` `PostgreSQL` `NLP` `Prophet`
-
-</td>
-<td width="50%" valign="top">
-
-**🌿 [LeafScan](https://github.com/Varish-05)**
-Plant disease detector fine-tuned on 54K+ leaf images across 38 classes using EfficientNetB3 — **~96% test accuracy**. Shipped as a Flask REST API (upload / URL / base64 inference) and deployed on Hugging Face Spaces.
-
-`PyTorch` `EfficientNetB3` `Flask`
+**Languages**
+- Python
+- Java
+- SQL
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-**🧩 [CodeVault](https://github.com/Varish-05)**
-A snippet manager that doesn't just store code — it explains it. Tag-based search plus an "Explain" feature powered by the Claude API for plain-English breakdowns and complexity analysis. Fully client-side React, dark mode, deployed on Vercel.
-
-`React` `Claude API` `Vercel`
+**ML / AI**
+- PyTorch · TensorFlow
+- Scikit-learn
+- NLP (TF-IDF)
+- Facebook Prophet
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-**📊 [RetailAnalyticsDB](https://github.com/Varish-05/Sql-retail-analytic)**
-An 8-table PostgreSQL schema with two self-referencing hierarchies and 15 analytical queries — RFM segmentation, cohort retention, churn detection. Hunted down a join fan-out bug silently inflating revenue, then optimized with `EXPLAIN ANALYZE` and 8 targeted indexes.
+**Backend / Frontend**
+- FastAPI · Flask
+- React
+- REST APIs · JWT Auth
 
-`PostgreSQL` `Window Functions` `Recursive CTEs`
+</td>
+<td valign="top" width="25%">
+
+**Tools / Cloud**
+- Git · GitHub
+- Docker
+- Vercel
+- Hugging Face Spaces
 
 </td>
 </tr>
 </table>
 
-**Also building:** 🤖 Personal Life Optimizer AI — a behavioral data pipeline (sleep, phone usage, habits) that forecasts daily productivity and surfaces personalized recommendations via a real-time Streamlit dashboard.
+---
+
+### 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💰 FinSense AI** — AI-Powered Personal Finance Advisor
+`FastAPI` `React` `PostgreSQL` `NLP` `Prophet`
+
+Full-stack finance advisor that auto-categorizes expenses via a TF-IDF + Logistic Regression NLP pipeline (**~93% accuracy**) and forecasts monthly category-wise spend with Facebook Prophet. JWT-secured REST API, CSV bank-statement import, real-time React dashboard — Dockerized for one-command deploy.
+
+</td>
+<td width="50%" valign="top">
+
+**🌿 LeafScan** — Plant Disease Detection
+`PyTorch` `EfficientNetB3` `Flask`
+
+Fine-tuned EfficientNetB3 on **54K+ leaf images** across **38 disease classes**, hitting **~96% test accuracy** using transfer learning + test-time augmentation. Shipped as a Flask REST API (upload / URL / base64 inference), deployed on Hugging Face Spaces.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 CodeVault** — AI Code Snippet Manager
+`React` `Claude API` `Vercel`
+
+Snippet manager with tag-based search and an "Explain" feature powered by the Claude API — generates plain-English breakdowns and complexity analysis for saved code. Fully client-side React app, dark mode, deployed on Vercel.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 RetailAnalyticsDB** — [SQL Analytics Project](https://github.com/Varish-05/Sql-retail-analytic)
+`PostgreSQL` `Window Functions` `Recursive CTEs`
+
+8-table PostgreSQL schema with two self-referencing hierarchies, 15 analytical queries (RFM segmentation, cohort retention, churn detection). Caught a **join fan-out bug** silently inflating revenue totals — fixed it, then optimized with `EXPLAIN ANALYZE` and 8 targeted indexes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Personal Life Optimizer AI** — Context-Aware Decision Assistant
+`Python` `Streamlit` `ML Pipeline`
+
+Predictive ML pipeline analyzing behavioral data (sleep patterns, phone usage, habits) to forecast daily productivity trends. Real-time Streamlit dashboard with a personalized recommendation engine for data-driven daily decisions.
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 VidSnapAI** — AI Short-Form Video Generator
+
+AI-driven pipeline for generating short-form video content — exploring the generative side of the AI stack beyond NLP and tabular ML.
+
+</td>
+</tr>
+</table>
+
+> 💡 Repo links shown above are placeholders where exact URLs weren't confirmed — send me the real repo names and I'll wire these up directly.
 
 ---
 
@@ -96,13 +165,32 @@ An 8-table PostgreSQL schema with two self-referencing hierarchies and 15 analyt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varish-05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varish-05&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varish-05&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 🧭 Currently Learning / Exploring
+
+- 🤝 Retrieval-Augmented Generation (RAG) systems and LLM application architecture
+- ☕ Java fundamentals for systems-level / backend depth (Java 21, design patterns)
+- 📐 Numerical optimization methods (Gauss-Newton, L-BFGS, online convex optimization)
+- 🧱 Modular pipeline design — Builder, Strategy, and Observer patterns in real systems
+
 ---
 
 ### 📜 Certifications
 
-- Generative AI Foundations — Microsoft & UpGrad
-- Oracle on IBM Power Foundational — IBM SkillsBuild
-- Computer Networking — Illinois Tech
+| Certification | Issuer |
+|---|---|
+| Generative AI Foundations | Microsoft & UpGrad |
+| Oracle on IBM Power Foundational | IBM SkillsBuild |
+| Computer Networking | Illinois Tech |
 
 ---
 
